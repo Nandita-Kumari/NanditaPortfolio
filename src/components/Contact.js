@@ -37,20 +37,20 @@ const Contact = () => {
                 </div>
                 <div className="column right">
                     <div className="text">Message me</div>
-                    <form className="contact-form" action="#" method="POST">
+                    <form className="contact-form" action="https://formsubmit.co/kmrinandita@gmail.com" method="POST">
                         <div className="fields">
                             <div className="field name">
-                                <input type="text" className="fullname" placeholder="Name" />
+                                <input type="text" className="fullname" placeholder="Name" name='fullname' />
                             </div>
                             <div className="field email">
-                                <input type="text" className="email-input" placeholder="Email" />
+                                <input type="text" className="email-input" placeholder="Email" name='email' />
                             </div>
                         </div>
                         <div className="field">
-                            <input type="text" className="subject" placeholder="Subject" />
+                            <input type="text" className="subject" placeholder="Subject" name='subject' />
                         </div>
                         <div className="field textarea">
-                            <textarea className="message" cols="30" rows="10" placeholder="Message.."></textarea>
+                            <textarea className="message" cols="30" rows="10" placeholder="Message.." name='message'></textarea>
                         </div>
                         <div className="button-area">
                             <button className="send-msg" type="submit" name="send">Send message</button>

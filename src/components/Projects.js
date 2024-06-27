@@ -63,43 +63,60 @@ const Projects = () => {
                 <div className="card">
                     <div className="card-content">
                        
-                        <a href="https://keep-notes-bay.vercel.app/">Keep Notes</a>
-                        <div className="text">Don't Need To Remember</div>
-                        <p>Here is an add notes project in which we can add our stuffs to make it safe, by using HTML, CSS and Javascript.</p>
+                        <a href="https://toypebble.com/">ToyPebble</a>
+                        <div className="text">More Play, Less Pay !</div>
+                        <p>
+                        Designed and developed ToyPebble, a subscription-based toy delivery website catering to parents looking to provide educational and engaging toys for their children conveniently.</p>
                     </div>
                 </div>
                 
                 <div className="card">
                     <div className="card-content">
                          {/* <img src="WhatsApp Image 2021-05-29 at 9.58.06 PM.jpeg" alt="" />*/}
-                        <a href="https://netflixx-zeta.vercel.app/">Netflixx</a>
-                        <div className="text">Netflix and Chill!!</div>
-                        <p>Here is a project on Netflix in which we go and check out the web shows , movies of many categories and their trailers, by using ReactJs, JavaScript, HTML and CSS.</p>
+                        <a href="https://wype.site/">Leon's</a>
+                        <div className="text">Serving goodness in every bite !</div>
+                        <p>Developed to enhance customer convenience and streamline operations for Leon's, a Burger King franchise.</p>
                     </div>
                 </div>
                 
                 <div className="card">
                     <div className="card-content">
                          {/* <img src="WhatsApp Image 2021-05-29 at 9.58.06 PM.jpeg" alt="" />*/}
-                        <a href="https://forge-cna9.vercel.app/">Forge</a>
-                        <div className="text">Works like Slack</div>
-                        <p>A project in which we can make different workspace to assemble for different projects with different colleages.</p>
+                        <a href="https://montiangelsinternationalschool.com/">Monti Angels International School</a>
+                        <div className="text">Academic Excellence</div>
+                        <p>Developed a comprehensive and interactive website for Monti Angels International School to enhance its online presence, provide essential information to parents and students</p>
                     </div>
                 </div>
                 <div className="card">
                     <div className="card-content">
-                        
-                        <div className="text">Someone name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <a href='https://crescentworkspace.in/'>Crescent Workspace</a>
+                        <div className="text">Redefining Work Culture</div>
+                        <p>Developed for individuals from different companies or professions share a common workspace,and often resources like conference rooms and office equipment.</p>
                     </div>
                 </div>
-                {/* <div className="card">
-                    <div className="box">
-                        <img src="images/profile-5.jpeg" alt="" />
-                        <div className="text">Someone name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                    </div> */}
-                  
+                <div className="card">
+                    <div className="card-content">
+                        <a href='https://rpinfocare.com/'>RP Infocare</a>
+                        <div className="text">Best Web Hosting Service</div>
+                        <p>It's a company website which referes best web hosting solution for online success.</p>
+                    </div>
+                </div>
+
+                <div className="card">
+                    <div className="card-content">
+                        <a href='https://www.torosand.in/'>ToroSand</a>
+                        <div className="text">Build with trust</div>
+                        <p>Developed for a sand company for better user expercience.</p>
+                    </div>
+                </div>
+
+                <div className="card">
+                    <div className="card-content">
+                        <a href='https://www.unicorpelevators.in/'>Unicorp Elevators</a>
+                        <div className="text">Travel Comfort</div>
+                        <p>Elevator site for smooth user experience towards travel and comfort.</p>
+                    </div>
+                </div>
           
                 </Carousel>
             </div>
