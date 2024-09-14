@@ -73,7 +73,7 @@ const Projects = () => {
                 <div className="card">
                     <div className="card-content">
                          {/* <img src="WhatsApp Image 2021-05-29 at 9.58.06 PM.jpeg" alt="" />*/}
-                        <a href="https://wype.site/">Leon's</a>
+                        <a href="https://lenon-six.vercel.app/">Leon's</a>
                         <div className="text">Serving goodness in every bite !</div>
                         <p>Developed to enhance customer convenience and streamline operations for Leon's, a Burger King franchise.</p>
                     </div>
