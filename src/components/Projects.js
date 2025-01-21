@@ -73,7 +73,7 @@ const Projects = () => {
                 <div className="card">
                     <div className="card-content">
                          {/* <img src="WhatsApp Image 2021-05-29 at 9.58.06 PM.jpeg" alt="" />*/}
-                        <a href="https://lenon-six.vercel.app/">Leon's</a>
+                        <a href="http://leons.in/">Leon's</a>
                         <div className="text">Serving goodness in every bite !</div>
                         <p>Developed to enhance customer convenience and streamline operations for Leon's, a Burger King franchise.</p>
                     </div>
@@ -115,6 +115,14 @@ const Projects = () => {
                         <a href='https://www.unicorpelevators.in/'>Unicorp Elevators</a>
                         <div className="text">Travel Comfort</div>
                         <p>Elevator site for smooth user experience towards travel and comfort.</p>
+                    </div>
+                </div>
+
+                <div className="card">
+                    <div className="card-content">
+                        <a href='https://thelittlescreens.com/'>Little Screens</a>
+                        <div className="text">Theatre Booking</div>
+                        <p>New Theaters in the town book a Private theater and experience your Celebration with your fav movies.</p>
                     </div>
                 </div>
           
